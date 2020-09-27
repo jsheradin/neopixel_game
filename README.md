@@ -1,7 +1,7 @@
 # neopixel_game
 Very basic single button game for Adafruit Neopixels controlled by an Arduino.
 
-![Video of game in action](https://i.imgur.com/vYsRduV.mp4)
+[Video of game in action](https://i.imgur.com/vYsRduV.mp4)
 
 [Files for case shown in video](https://www.thingiverse.com/thing:4608539)
 
